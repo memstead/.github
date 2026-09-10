@@ -1,6 +1,6 @@
 # Memstead
 
-**Memstead gives AI agents a durable, typed memory you own.** Your agent's knowledge lives as plain markdown in a git repository — readable by you, diffable in review, with no database and no vendor lock-in. A schema you pin is enforced on every write, so the graph never drifts into mush.
+**Install expertise into your agent.** Memstead is the engine, CLI and MCP server that keep an agent's expertise as typed markdown in git, with a schema enforced on every write.
 
 - **Engine, CLI & MCP server:** [memstead/memstead](https://github.com/memstead/memstead)
 - **Website:** [memstead.com](https://memstead.com) · **Registry:** [memstead.io](https://memstead.io)
